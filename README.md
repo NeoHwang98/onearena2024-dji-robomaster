@@ -1,2 +1,2 @@
-# dji-maze-competition
-Robotics Tech Lead | DJI maze challenge for national Singapore competition using Python
+# NTU OneArena2024 | DJI Robomaster Competition
+OneArena is a team-based 3-day workshop and competition that introduces the world of coding and robotics to pre-university students in Singapore. It aims to engage youths via interdisciplinary problem-solving and interest them in pursuing a future in Engineering. Participants will get to learn more about Robotics and hone their technical and teamwork skills while competing for the top 3.
